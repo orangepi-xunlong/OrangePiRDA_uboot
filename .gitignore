@@ -20,6 +20,7 @@
 *.bin
 *.patch
 *.cfgtmp
+*.rda
 
 # host programs on Cygwin
 *.exe
@@ -49,7 +50,6 @@
 /errlog
 /reloc_off
 
-/spl/
 /tpl/
 
 #
@@ -91,7 +91,3 @@ GTAGS
 
 /cur.log
 
-# OrangePi external
-!sunxi_spl/fes_init/main/fes_init.lds
-
-include/configs/sun50iw2p1.h
