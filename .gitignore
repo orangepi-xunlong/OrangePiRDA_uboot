@@ -21,6 +21,7 @@
 *.patch
 *.cfgtmp
 *.rda
+*.img
 
 # host programs on Cygwin
 *.exe
